@@ -1,4 +1,4 @@
-mport RPi.GPIO as GPIO                    #Import GPIO library
+import RPi.GPIO as GPIO                    #Import GPIO library
 import time                                #Import time library
 GPIO.setmode(GPIO.BCM)                     #Set GPIO pin numbering 
 
