@@ -2,7 +2,7 @@
 #Used for initialising the controller
 #Always builr prerequisites first using:
 # $ sudo apt-get install python-dev python-pip gcc
-# $ pip install approxeng.input
+# $ pip3 install approxeng.input
 
 from approxeng.input import CentredAxis, Controller, Button, TriggerAxis, BinaryAxis
 
